@@ -4,6 +4,6 @@
 
 ### I dont know how this happened but you died to starvation. That anime must of been good.
 
-
+[Reset](home.md)
 
 
