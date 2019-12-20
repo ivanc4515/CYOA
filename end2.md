@@ -4,6 +4,6 @@
 
 ### Your new job is better than your last.The people there are nice and you begin to build a social life.
 
-
+[Reset](home.md)
 
 
